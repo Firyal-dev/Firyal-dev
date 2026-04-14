@@ -24,7 +24,7 @@
 <p align="left">
   I'm a passionate SMK student from Indonesia 🇮🇩 who loves coding and building simple yet useful web projects.<br><br>
   - 🔭 I’m currently exploring the world of web development<br>
-  - 💡 I often experiment with PHP, Laravel, and JavaScript<br>
+  - 💡 I often experiment with Typescript, Node Js, and Laravel<br>
   - 🌱 Always learning new things and improving my skills<br>
   - 🎨 I enjoy designing UIs with Tailwind and Bootstrap<br>
   - 🛠️ Local dev? I'm a proud Laragon user 😎
