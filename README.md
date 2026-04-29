@@ -22,7 +22,7 @@
 <h3 align="left">👨‍🎓 About Me</h3>
 
 <p align="left">
-  I'm a passionate SMK student from Indonesia 🇮🇩 who loves coding and building simple yet useful web projects.<br><br>
+  I'm a full-stack developer from Indonesia 🇮🇩 who loves coding and building simple yet useful web projects.<br><br>
   - 🔭 I’m currently exploring the world of web development<br>
   - 💡 I often experiment with Next JS, Node Js, and Laravel<br>
   - 🌱 Always learning new things and improving my skills<br>
