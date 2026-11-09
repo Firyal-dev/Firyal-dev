@@ -28,7 +28,3 @@
   - 🌱 Always learning new things and improving my skills<br>
   - 🎨 I enjoy designing UIs with Tailwind and Bootstrap<br>
 </p>
-
----
-
-<h3 align="left">🔥 My GitHub Stats</h3>
