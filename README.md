@@ -22,18 +22,13 @@
 <h3 align="left">👨‍🎓 About Me</h3>
 
 <p align="left">
-  I'm a full-stack developer from Indonesia 🇮🇩 who loves coding and building simple yet useful web projects.<br><br>
+  I'm a software developer from Indonesia 🇮🇩 who loves coding and building simple yet useful web projects.<br><br>
   - 🔭 I’m currently exploring the world of web development<br>
-  - 💡 I often experiment with Next JS, Node Js, and Laravel<br>
+  - 💡 I often experiment with Node Js and Laravel<br>
   - 🌱 Always learning new things and improving my skills<br>
   - 🎨 I enjoy designing UIs with Tailwind and Bootstrap<br>
-  - 🛠️ Local dev? I'm a proud Laragon user 😎
 </p>
 
 ---
 
 <h3 align="left">🔥 My GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Firyal-dev&theme=tokyonight&hide_border=false" height="220" alt="streak graph" />
-</div>
